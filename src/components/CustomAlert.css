@@ -1,0 +1,23 @@
+/* CustomAlert.css */
+.custom-alert {
+    display: none;
+    background-color: #4caf50; /* Green background */
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    position: fixed;
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust positioning to exactly center */
+    z-index: 1000;
+    transition: opacity 0.3s ease-in-out;
+    opacity: 0;
+  }
+  
+  .custom-alert.show {
+    display: block;
+    opacity: 1;
+  }
+  
