@@ -1,6 +1,6 @@
 import { BrowserRouter } from "react-router-dom";
-import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, StarsCanvas } from "./components"; // Removed the trailing comma here
-import Footer from "./components/footer";
+import { About, Contact, Experience, Feedbacks, Hero, Navbar, Tech, Works, Footer, StarsCanvas } from "./components"; // Fixed import for Footer
+
 import '@fortawesome/fontawesome-free/css/all.min.css';
 
 const App = () => {
