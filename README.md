@@ -1,10 +1,11 @@
-# React Footer Component with Framer Motion
 
-This project includes a responsive footer component built with React and styled using Tailwind CSS. It also integrates animation effects provided by [Framer Motion](https://www.framer.com/motion/) to create smooth and interactive hover effects on social media icons.
+# Smart Portfolio
+
+This is a **Smart Portfolio** project built with React, designed to showcase your personal or professional brand. It includes interactive features, responsive design, and modern animations powered by [Framer Motion](https://www.framer.com/motion/). The project is styled using Tailwind CSS for a clean and professional look.
 
 ## Features
 
-- **Responsive Design:** The footer is mobile-friendly and adjusts to various screen sizes.
+- **Responsive Design:** mobile-friendly and adjusts to various screen sizes.
 - **Social Media Links:** Includes animated links to:
   - ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github&logoColor=white) [GitHub](https://github.com/benattouchmohamed/portfolio-benattouch)
   - ![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white) [Facebook](https://www.facebook.com/profile.php?id=61570300422602)
@@ -14,9 +15,7 @@ This project includes a responsive footer component built with React and styled 
 - **Interactive Animations:** Hover and click animations using Framer Motion for a dynamic user experience.
 - **Tailwind CSS Styling:** Clean and modern design with Tailwind's utility-first CSS.
 
-## Preview
 
-![Footer Preview](https://via.placeholder.com/1000x300.png?text=Footer+Preview)
 
 ## Installation
 
